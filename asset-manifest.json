@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-carousel/static/css/main.b1bab8f8.css",
+    "main.js": "/react-carousel/static/js/main.48190dba.js",
+    "index.html": "/react-carousel/index.html",
+    "main.b1bab8f8.css.map": "/react-carousel/static/css/main.b1bab8f8.css.map",
+    "main.48190dba.js.map": "/react-carousel/static/js/main.48190dba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1bab8f8.css",
+    "static/js/main.48190dba.js"
+  ]
+}
